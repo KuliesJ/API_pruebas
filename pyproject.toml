@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "DBP-final"
+version = "0.1.0"
+description = ""
+authors = ["milksake <caceresmariana443@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Flask = "^2.1.2"
+Flask-Login = "^0.6.1"
+black = "^22.3.0"
+requests = "^2.28.0"
+Flask-RESTful = "^0.3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
